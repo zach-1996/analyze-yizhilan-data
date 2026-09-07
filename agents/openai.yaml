@@ -1,0 +1,4 @@
+interface:
+  display_name: "一枝兰数据分析"
+  short_description: "查询并分析一枝兰、九枝兰的投放效果、转化、素材与定制报表数据"
+  default_prompt: "使用 $analyze-yizhilan-data 按默认网络口径查询并分析一枝兰本月各学校招生人数情况。"
